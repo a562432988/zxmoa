@@ -13,8 +13,8 @@
 					<key>url</key>
 					<string><![CDATA[http://221.12.98.73/d/dingzhi/sxszf/sxoa-5.14.1.0.ipa]]></string>
 				</dict>
-        <dict>
-<key>kind</key>
+ 			       <dict>
+				<key>kind</key>
 <string>full-size-image</string>
 <key>needs-shine</key>
 <false/>
